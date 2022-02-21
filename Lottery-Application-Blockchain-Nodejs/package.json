@@ -1,0 +1,22 @@
+{
+  "name": "lottery-application-blockchain-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "dotenv": "^16.0.0",
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.4.17",
+    "web3": "^1.7.0"
+  }
+}
