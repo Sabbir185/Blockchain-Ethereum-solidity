@@ -1,0 +1,5 @@
+	npm install @truffle/hdwallet-provider
+	npm install ganache-cli
+	npm install mocha
+	npm install solc@0.4.17
+	npm install web3
